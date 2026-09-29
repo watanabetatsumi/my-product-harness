@@ -1,0 +1,10 @@
+{
+  "foam.edit.linkReferenceDefinitions": "withExtensions",
+  "foam.files.exclude": [
+    "**/.git/**/*",
+    "**/.obsidian/**/*",
+    "**/.vscode/**/*",
+    "**/node_modules/**/*"
+  ],
+  "markdown.updateLinksOnFileMove.enabled": "prompt"
+}

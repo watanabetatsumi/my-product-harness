@@ -1,0 +1,4 @@
+interface:
+  display_name: "政策クラウドのリリース案内更新"
+  short_description: "GitHubを調べて顧客向けNotionのリリース・ロードマップ・モックを更新"
+  default_prompt: "$policy-cloud-release-update 今月のリリースと直近ロードマップを最新情報でNotionに更新して。掲載できるモックも入れて。"
